@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
 title: Debora Salgado
 tagline: substitle # blog sub-titile
-author: Debora P.S. # author name
-email: deborapsalgado@hotmail.com # author email
-description: "Deborasal is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in 
-your feed.xml site description
-keywords: "Jekyll, theme, Freshman21" # html meta keywords
+#author: Debora P.S. # author name
+#email: deborapsalgado@hotmail.com # author email
+#description: "Deborasal is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in 
+#your feed.xml site description
+#keywords: "Jekyll, theme, Freshman21" # html meta keywords
 # baseurl: "/freshman21" # the subpath of your site, e.g. /blog
 #url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 
